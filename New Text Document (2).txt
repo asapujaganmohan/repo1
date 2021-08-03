@@ -1,0 +1,1 @@
+https://dzone.com/articles/jenkins-02-changing-home-directory
